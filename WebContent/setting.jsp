@@ -41,8 +41,8 @@
         		</div>
         		<div class="widget-content">
         			<div class ="shortcuts">
-        				<a href="javascript:;" class= "shortcut"> <i class="shortcut-icon icon-list-alt"></i> <span class="shortcut-label">dropbox</span></a>
-        				<a href="javascript:;" class= "shortcut"> <i class="shortcut-icon icon-list-alt"></i> <span class="shortcut-label">box.net</span></a>
+        				<a href="javascript:;" class= "shortcut"> <img src="https://www.dropbox.com/static/images/new_logo.png"/> <span class="shortcut-label">dropbox</span></a>
+        				<a href="javascript:;" class= "shortcut"> <img src="img/box_logo.png"/> <span class="shortcut-label">box.net</span></a>
         			</div>
         		</div>
         	</div>

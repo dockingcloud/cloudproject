@@ -8,6 +8,13 @@
     <link href="/css/bootstrap.css" rel="stylesheet" >
     <link href="/css/bootstrap-responsive.css" rel="stylesheet" >
     <link href="/css/bootstrap-modal.css" rel="stylesheet" >
+    <link href="/css/base-admin.css" rel="stylesheet" >
+    <link href="/css/pages/dashboard.css" rel="stylesheet" >
+    
+    <link href="http://wbpreview.com/previews/WB00U99JJ/css/font-awesome.css" rel="stylesheet">
+    
+    <link href="http://wbpreview.com/previews/WB00U99JJ/css/base-admin-responsive.css" rel="stylesheet">
+   
     
   	<script src="/js/bootstrap.js" type="text/javascript"></script>
   	<script src="/js/bootstrap-modal.js" type="text/javascript"></script>
@@ -89,8 +96,7 @@
              	 	<li><a href="register.jsp">아이디/비밀번호 찾기</a></li>
              	</ul>
         		<form class="navbar-form pull-right">
-             	 <input class="span2" type="text" placeholder="ID">
-             	 <input class="span2" type="password" placeholder="password">
+             	 
              	 <button type="submit" class="btn"><a href="/login.jsp">Sign in</a></button>
            		</form>
              	 
