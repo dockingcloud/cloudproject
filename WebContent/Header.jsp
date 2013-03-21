@@ -57,7 +57,7 @@
 	          <div class="btn-group">
 	          
 	          
- 				 <a class="btn btn-primary" href="#"><i class="icon-user icon-white"></i> User</a>
+ 				 <a class="btn btn-primary" href="connect.jsp"><i class="icon-user icon-white"></i> User</a>
  				 <a class="btn btn-primary dropdown-toggle" data-toggle="dropdown" href="#"><span class="caret"></span></a>
  				 <ul class="dropdown-menu">
  				 
